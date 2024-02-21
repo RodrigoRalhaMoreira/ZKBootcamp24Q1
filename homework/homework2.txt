@@ -1,0 +1,14 @@
+Modular arithmetic - you just need to find examples, you don't need to prove anything.
+a) Is it true that all odd squares are ≡ 1 (mod 8) ?
+    Yes. 3² = 9 ≡ 1 (mod8); 5² = 25 ≡ 1 (mod8); 7² = 49 ≡ 1 (mod8)
+b) what about even squares (mod 8) ?
+    No, they are either 4 or 0:
+    2² = 4 ≡ 4 (mod8); 4² = 16 ≡ 0 (mod8); 6² = 36 ≡ 4 (mod8); 8² = 64 ≡ 0 (mod8);
+
+What do you understand by
+a) O(n) - The time of execution is linear to the input received. For example, if we have a list with a lot of elements if we have a function that receives an integer and prints all the elements until that input, if the input is 10, prints the first 10 and if it is 20 it will take twice as long.
+b) O(1) - The time to execute is always the same independently of the input. For example a function that receives a integer and multiplies it by 20 will be O(1)
+c) O(log n) - The time of execution is logaritmic, so the time to execute increases in a logmaritic way when the input is increased. A binary search is a common example, where the size of the array/tree is halved in every iteration.
+
+For a proof size, which of these would you want ?
+O(1), the faster the better
