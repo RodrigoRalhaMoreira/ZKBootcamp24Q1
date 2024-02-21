@@ -1,0 +1,31 @@
+1. Working with the following set of Integers S = {0,1,2,3,4,5,6}
+What is:
+a) 4 + 4 = 8
+b) 3 x 5 = 15
+c) what is the inverse of 3 ? 1/3
+
+2. For S = {0,1,2,3,4,5,6}
+Can we consider 'S' and the operation '+' to be a group ?
+No? This would violate the propertie of closure, if we added 5 and 6 (5+6) we would get a value outside of 'S'.
+
+3. What is -13 mod 5 ?
+−13 ÷ 5 = −2 with a remainder of -3.
+
+−13 mod 5 = −3.
+
+4. Polynomials
+For the polynomial x^3 − x^2 + 4x − 12
+Find a the positive root ?
+x³ − x² + 4x − 12 <=>
+<=> (x - 2) (x² + x + 6)
+One of the positive roots is 2.
+What is the degree of this polynomial ? Polynomial of degree 3.
+
+In your teams discuss any systems you have used that involved zero knowledge proofs.
+- I have used zero knowledge proofs to build a solution for Aleo blockchain which included knowing if some points in a 2d map where within a certain range.
+Have you seen any applications of zero knowledge proofs other than with a blockchain ?
+- I have not only read some papers but not real applications, but I know they can be used in web2 as well.
+What is to you, the most important feature of zkp technology ?
+- Providing the necessary tools to hide information that does not need to be seen by everyone giving it in the form of a proof that is correctly or incorrectly validated.
+Think of some use cases of zero knowledge proofs that you would like to see developed.
+- Complex digital voting systems using zero knowledge proofs and the possibility of use it for politics
